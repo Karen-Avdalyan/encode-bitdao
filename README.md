@@ -42,4 +42,4 @@ yarn start
 * [`Truffle`](#)
     * For easy smart contract testing
 * [`AntDesign`](#)
-    * Nice looking components, not related to any blockchain stuff
+    * Nice looking components, not related to any blockchain stuff   
